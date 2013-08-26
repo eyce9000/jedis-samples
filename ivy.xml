@@ -1,0 +1,6 @@
+<ivy-module version="1.0">
+    <info organisation="com.ibm" module="redis-samples"/>
+    <dependencies>
+        <dependency org="redis.clients" name="jedis" rev="2.1.0"/>
+    </dependencies>
+</ivy-module>
